@@ -1,5 +1,17 @@
 {
-  "son": "ysz1go",
-  "shete2": "j1z65c",
-  "shete": "5i0l91"
+  "permanentAdmins": [
+    [
+      "son",
+      "ysz1go"
+    ],
+    [
+      "nombreAdmin2",
+      "j1z65c"
+    ],
+    [
+      "shete",
+      "5i0l91"
+    ]
+  ],
+  "lastUpdate": "2025-03-10T03:29:46.888Z"
 }
