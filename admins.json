@@ -1,8 +1,1 @@
-{
-  "permanentAdmins": {
-    "son": {
-      "name": "son",
-      "auth": "xgbkx5"
-    }
-  }
-}
+{"son":{"name":"son","auth":"xgbkx5","isLoggedIn":true}}
