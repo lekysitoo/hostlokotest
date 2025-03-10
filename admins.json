@@ -1,9 +1,17 @@
 {
   "admins": {
-    "son": "ysz1go",
-    "shete2": "j1z65c",
-    "shete": "5i0l91"
+    "YourAuthID1": {
+      "name": "son",
+      "password": "ysz1go"
+    },
+    "YourAuthID2": {
+      "name": "shete2",
+      "password": "j1z65c"
+    },
+    "YourAuthID3": {
+      "name": "shete",
+      "password": "5i0l91"
+    }
   },
-  "lastUpdate": "2024-03-10T04:04:46.889Z",
-  "son": "ei2rza"
+  "lastUpdate": "2024-03-10T04:04:46.889Z"
 }
