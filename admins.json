@@ -1,1 +1,10 @@
-{"son":{"name":"son","auth":"xgbkx5","isLoggedIn":true}}
+{
+  "permanentAdmins": {
+    "Admin1": {
+      "name": "Admin1",
+      "browserAuth": null,
+      "isLoggedIn": false,
+      "addedDate": "2024-03-21T00:00:00.000Z"
+    }
+  }
+}
