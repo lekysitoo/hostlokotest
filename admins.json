@@ -1,19 +1,8 @@
 {
-  "permanentAdmins": [
-    [
-      "son",
-      "ysz1go"
-    ],
-    [
-      "shete2",
-      "j1z65c"
-    ],
-    [
-      "shete",
-      "5i0l91"
-    ]
-  ],
-  "lastUpdate": "2025-03-10T04:04:46.889Z",
-  "son": "1ctc0z",
-  "shete2": "h4h75j"
+  "admins": {
+    "son": "ysz1go",
+    "shete2": "j1z65c",
+    "shete": "5i0l91"
+  },
+  "lastUpdate": "2024-03-10T04:04:46.889Z"
 }
