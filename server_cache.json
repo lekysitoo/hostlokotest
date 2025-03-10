@@ -1,6 +1,10 @@
-   {
-     "stats": {},
-     "lastGames": [],
-     "customMaps": {},
-     "lastUpdate": "2024-03-21T00:00:00Z"
-   }
+{
+  "stats": {
+    "players": [...],
+    "records": [...],
+    "rankings": [...]
+  },
+  "lastGames": [...],
+  "customMaps": [...],
+  "lastUpdate": "2024-03-10T03:16:10.873Z"
+}
