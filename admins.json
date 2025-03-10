@@ -1,7 +1,8 @@
 {
-  "undefined": {
-    "name": "son",
-    "password": "hvo1nz"
-  },
-  "son": "xgbkx5"
+  "permanentAdmins": {
+    "son": {
+      "name": "son",
+      "auth": "xgbkx5"
+    }
+  }
 }
