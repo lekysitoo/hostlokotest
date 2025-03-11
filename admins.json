@@ -1,22 +1,5 @@
 {
   "permanentAdmins": {
-    "Admin1": {
-      "name": "Admin1",
-      "auth": {
-        "name": "Admin1",
-        "browserAuth": null,
-        "isLoggedIn": false,
-        "addedDate": "2024-03-21T00:00:00.000Z"
-      },
-      "isLoggedIn": false,
-      "browserAuth": null
-    },
-    "son": {
-      "name": "son",
-      "auth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y",
-      "isLoggedIn": false,
-      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
-    },
     "g": {
       "name": "g",
       "auth": "hknk9a",
