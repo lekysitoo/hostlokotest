@@ -14,14 +14,14 @@
     },
     "seb": {
       "name": "seb",
-      "password": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y",
-      "isLoggedIn": false,
-      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+      "password": "d0x0c",
+      "isLoggedIn": true,
+      "browserAuth": "qPoCDEu4wd4rVEYPCpdoJon5pV13h1BYCAQH-4AGOfs"
     },
     "son": {
       "name": "son",
       "password": "iobte",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
   }
