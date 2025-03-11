@@ -20,13 +20,13 @@
     "g": {
       "name": "g",
       "auth": "729hl7",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": null
     },
     "EL MOROCHO CASTLE": {
       "name": "EL MOROCHO CASTLE",
       "auth": "ijkyd0",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": null
     }
   }
