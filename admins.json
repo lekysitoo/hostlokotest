@@ -16,6 +16,12 @@
       "auth": "06h9l8",
       "isLoggedIn": true,
       "browserAuth": null
+    },
+    "g": {
+      "name": "g",
+      "auth": "729hl7",
+      "isLoggedIn": true,
+      "browserAuth": null
     }
   }
 }
