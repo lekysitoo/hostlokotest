@@ -26,7 +26,7 @@
     "EL MOROCHO CASTLE": {
       "name": "EL MOROCHO CASTLE",
       "auth": "uweqi8",
-      "isLoggedIn": false,
+      "isLoggedIn": true,
       "browserAuth": null
     }
   }
