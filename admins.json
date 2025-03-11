@@ -27,8 +27,14 @@
     "chester bennington": {
       "name": "chester bennington",
       "password": "57tuf",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": "ZNXPe74vnM4a0_nAm3yafc4iAdnlfD02KdCh7DrNoZo"
+    },
+    "son goku": {
+      "name": "son goku",
+      "password": "rld6n",
+      "isLoggedIn": true,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
   }
 }
