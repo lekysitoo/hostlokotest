@@ -2,19 +2,25 @@
   "permanentAdmins": {
     "g": {
       "name": "g",
-      "auth": "hknk9a",
+      "password": "hknk9a",
       "isLoggedIn": false,
       "browserAuth": null
     },
     "EL MOROCHO CASTLE": {
       "name": "EL MOROCHO CASTLE",
-      "auth": "uweqi8",
+      "password": "uweqi8",
       "isLoggedIn": false,
       "browserAuth": null
     },
     "seb": {
       "name": "seb",
-      "auth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y",
+      "password": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y",
+      "isLoggedIn": false,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+    },
+    "son": {
+      "name": "son",
+      "password": "9w6ka",
       "isLoggedIn": true,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
