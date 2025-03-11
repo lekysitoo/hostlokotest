@@ -14,7 +14,7 @@
     "son": {
       "name": "son",
       "auth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     },
     "g": {
@@ -28,6 +28,12 @@
       "auth": "uweqi8",
       "isLoggedIn": false,
       "browserAuth": null
+    },
+    "seb": {
+      "name": "seb",
+      "auth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y",
+      "isLoggedIn": true,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
   }
 }
