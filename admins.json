@@ -2,9 +2,20 @@
   "permanentAdmins": {
     "Admin1": {
       "name": "Admin1",
-      "browserAuth": null,
+      "auth": {
+        "name": "Admin1",
+        "browserAuth": null,
+        "isLoggedIn": false,
+        "addedDate": "2024-03-21T00:00:00.000Z"
+      },
       "isLoggedIn": false,
-      "addedDate": "2024-03-21T00:00:00.000Z"
+      "browserAuth": null
+    },
+    "son": {
+      "name": "son",
+      "auth": "06h9l8",
+      "isLoggedIn": true,
+      "browserAuth": null
     }
   }
 }
