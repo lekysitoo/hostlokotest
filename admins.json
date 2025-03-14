@@ -14,14 +14,14 @@
     },
     "seb": {
       "name": "seb",
-      "password": "d0x0c",
-      "isLoggedIn": false,
-      "browserAuth": "qPoCDEu4wd4rVEYPCpdoJon5pV13h1BYCAQH-4AGOfs"
+      "password": "jplw8",
+      "isLoggedIn": true,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     },
     "son": {
       "name": "son",
       "password": "iobte",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     },
     "chester bennington": {
