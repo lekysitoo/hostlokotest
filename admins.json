@@ -15,7 +15,7 @@
     "seb": {
       "name": "seb",
       "password": "jplw8",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     },
     "son": {
@@ -35,6 +35,12 @@
       "password": "rld6n",
       "isLoggedIn": false,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+    },
+    "obesa doncic": {
+      "name": "obesa doncic",
+      "password": "fj9k2",
+      "isLoggedIn": true,
+      "browserAuth": "PzMZu23tXJAr7fP3KFR7OXVg--1pM3JfGP_lv2rAJOo"
     }
   }
 }
