@@ -6,7 +6,14 @@
       "isLoggedIn": true,
       "browserAuth": "browser_son_1742032646549",
       "timestamp": 1742032646549
+    },
+    "browser_son_1742032676945": {
+      "name": "son",
+      "password": "r4j9p",
+      "isLoggedIn": true,
+      "browserAuth": "browser_son_1742032676945",
+      "timestamp": 1742032676945
     }
   },
-  "lastUpdate": 1742032646550
+  "lastUpdate": 1742032676945
 }
