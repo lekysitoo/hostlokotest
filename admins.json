@@ -1,3 +1,12 @@
 {
-  "permanentAdmins": {}
+  "permanentAdmins": {
+    "browser_son_1742032646549": {
+      "name": "son",
+      "password": "kdazb",
+      "isLoggedIn": true,
+      "browserAuth": "browser_son_1742032646549",
+      "timestamp": 1742032646549
+    }
+  },
+  "lastUpdate": 1742032646550
 }
