@@ -15,7 +15,7 @@
     "seb": {
       "name": "seb",
       "password": "jplw8",
-      "isLoggedIn": false,
+      "isLoggedIn": true,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     },
     "son": {
