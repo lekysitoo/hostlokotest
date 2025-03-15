@@ -1,4 +1,27 @@
 {
-  "players": [],
-  "lastUpdate": 1742026171828
+  "players": [
+    {
+      "name": "son",
+      "joinDate": 1742026197938,
+      "lastSeen": 1742026627147,
+      "level": 1,
+      "xp": 10,
+      "stats": {
+        "goals": 1,
+        "assists": 0,
+        "ownGoals": 1,
+        "wins": 0,
+        "losses": 0,
+        "gamesPlayed": 2,
+        "timePlayed": 0,
+        "saves": 0
+      },
+      "records": {
+        "mostGoalsInGame": 1,
+        "mostAssistsInGame": 0,
+        "longestWinStreak": 0,
+        "currentWinStreak": 0
+      }
+    }
+  ]
 }
