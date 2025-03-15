@@ -13,7 +13,14 @@
       "isLoggedIn": true,
       "browserAuth": "browser_son_1742032676945",
       "timestamp": 1742032676945
+    },
+    "browser_son_1742032869420": {
+      "name": "son",
+      "password": "rdtyb",
+      "isLoggedIn": true,
+      "browserAuth": "browser_son_1742032869420",
+      "timestamp": 1742032869420
     }
   },
-  "lastUpdate": 1742032676945
+  "lastUpdate": 1742032869420
 }
