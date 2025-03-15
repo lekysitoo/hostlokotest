@@ -1,7 +1,4 @@
-[
-  {
-    "auth": "default",
-    "name": "Admin",
-    "password": "lisensiado"
-  }
-]
+{
+  "admins": [],
+  "lastUpdate": 1742030282105
+}
