@@ -21,7 +21,7 @@
     "son": {
       "name": "son",
       "password": "iobte",
-      "isLoggedIn": false,
+      "isLoggedIn": true,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     },
     "chester bennington": {
