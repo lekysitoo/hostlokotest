@@ -3,7 +3,7 @@
     {
       "name": "son",
       "joinDate": 1742026197938,
-      "lastSeen": 1742026627147,
+      "lastSeen": 1742027247385,
       "level": 1,
       "xp": 10,
       "stats": {
@@ -12,7 +12,7 @@
         "ownGoals": 1,
         "wins": 0,
         "losses": 0,
-        "gamesPlayed": 2,
+        "gamesPlayed": 5,
         "timePlayed": 0,
         "saves": 0
       },
