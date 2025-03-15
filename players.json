@@ -2,22 +2,22 @@
   "players": [
     {
       "name": "son",
-      "joinDate": 1742026197938,
-      "lastSeen": 1742027247385,
+      "joinDate": 1742027885799,
+      "lastSeen": 1742027885799,
       "level": 1,
-      "xp": 10,
+      "xp": 0,
       "stats": {
-        "goals": 1,
+        "goals": 0,
         "assists": 0,
-        "ownGoals": 1,
+        "ownGoals": 0,
         "wins": 0,
         "losses": 0,
-        "gamesPlayed": 5,
+        "gamesPlayed": 1,
         "timePlayed": 0,
         "saves": 0
       },
       "records": {
-        "mostGoalsInGame": 1,
+        "mostGoalsInGame": 0,
         "mostAssistsInGame": 0,
         "longestWinStreak": 0,
         "currentWinStreak": 0
