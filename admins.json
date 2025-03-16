@@ -42,7 +42,8 @@
     "test": {
       "name": "test",
       "auth": "caksjj",
-      "isLoggedIn": true
+      "isLoggedIn": true,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
   }
 }
