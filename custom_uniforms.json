@@ -87,6 +87,26 @@
           15901225
         ]
       }
+    },
+    {
+      "shortName": "IO1",
+      "longName": "Custom IO1",
+      "country": "Custom",
+      "isNational": false,
+      "home": {
+        "angle": 60,
+        "avatarColor": 16718876,
+        "mainColor": [
+          0
+        ]
+      },
+      "away": {
+        "angle": 60,
+        "avatarColor": 16718876,
+        "mainColor": [
+          10263708
+        ]
+      }
     }
   ]
 }
