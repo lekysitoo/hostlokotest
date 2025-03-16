@@ -1,0 +1,28 @@
+{
+  "customTeams": [
+    {
+      "shortName": "UY",
+      "longName": "Custom UY",
+      "country": "Custom",
+      "isNational": false,
+      "home": {
+        "angle": 60,
+        "avatarColor": 0,
+        "mainColor": [
+          2725058,
+          2260387,
+          2060177
+        ]
+      },
+      "away": {
+        "angle": 60,
+        "avatarColor": 0,
+        "mainColor": [
+          2725058,
+          2260387,
+          2060177
+        ]
+      }
+    }
+  ]
+}
