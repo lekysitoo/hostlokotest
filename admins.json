@@ -24,12 +24,13 @@
     "son": {
       "name": "son",
       "password": "ud4k7",
-      "isLoggedIn": true
+      "isLoggedIn": true,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     },
     "sona": {
       "name": "sona",
       "password": "89cww",
-      "isLoggedIn": true,
+      "isLoggedIn": false,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
   }
