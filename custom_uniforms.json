@@ -23,6 +23,28 @@
           2060177
         ]
       }
+    },
+    {
+      "shortName": "RAN",
+      "longName": "Custom RAN",
+      "country": "Custom",
+      "isNational": false,
+      "home": {
+        "angle": 60,
+        "avatarColor": 15531845,
+        "mainColor": [
+          8026746,
+          5931
+        ]
+      },
+      "away": {
+        "angle": 60,
+        "avatarColor": 15531845,
+        "mainColor": [
+          8026746,
+          5931
+        ]
+      }
     }
   ]
 }
