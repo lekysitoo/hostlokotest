@@ -67,6 +67,26 @@
           5931
         ]
       }
+    },
+    {
+      "shortName": "HOL1",
+      "longName": "Custom HOL1",
+      "country": "Custom",
+      "isNational": false,
+      "home": {
+        "angle": 0,
+        "avatarColor": 15263976,
+        "mainColor": [
+          15901225
+        ]
+      },
+      "away": {
+        "angle": 0,
+        "avatarColor": 15263976,
+        "mainColor": [
+          15901225
+        ]
+      }
     }
   ]
 }
