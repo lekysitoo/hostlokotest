@@ -20,7 +20,12 @@
       "isLoggedIn": true,
       "browserAuth": "browser_son_1742032869420",
       "timestamp": 1742032869420
+    },
+    "son": {
+      "name": "son",
+      "password": "0qvmb",
+      "isLoggedIn": true,
+      "browserAuth": null
     }
-  },
-  "lastUpdate": 1742032869420
+  }
 }
