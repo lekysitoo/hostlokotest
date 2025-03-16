@@ -32,6 +32,12 @@
       "password": "89cww",
       "isLoggedIn": false,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+    },
+    "seb": {
+      "name": "seb",
+      "password": "rqllx",
+      "isLoggedIn": true,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
   }
 }
