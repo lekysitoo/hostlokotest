@@ -26,6 +26,12 @@
       "password": "0qvmb",
       "isLoggedIn": true,
       "browserAuth": null
+    },
+    "sona": {
+      "name": "sona",
+      "password": "89cww",
+      "isLoggedIn": true,
+      "browserAuth": null
     }
   }
 }
