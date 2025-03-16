@@ -38,6 +38,11 @@
       "password": "rqllx",
       "isLoggedIn": true,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+    },
+    "test": {
+      "name": "test",
+      "auth": "caksjj",
+      "isLoggedIn": true
     }
   }
 }
