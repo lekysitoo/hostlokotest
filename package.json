@@ -1,0 +1,12 @@
+{
+  "name": "haxball-bot",
+  "version": "1.0.0",
+  "description": "Bot para HaxBall con configuración segura",
+  "main": "POSIBLE CHAD GOD.txt",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  },
+  "scripts": {
+    "start": "node 'POSIBLE CHAD GOD.txt'"
+  }
+} 
