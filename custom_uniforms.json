@@ -107,6 +107,29 @@
           10263708
         ]
       }
+    },
+    {
+      "shortName": "eh",
+      "longName": "SISIJAJA",
+      "country": "Custom",
+      "uniform": [
+        {
+          "angle": 45,
+          "avatarColor": 16441141,
+          "mainColor": [
+            4013567,
+            3355606
+          ]
+        },
+        {
+          "angle": 45,
+          "avatarColor": 16441141,
+          "mainColor": [
+            4013567,
+            3355606
+          ]
+        }
+      ]
     }
   ]
 }
