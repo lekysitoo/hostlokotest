@@ -130,6 +130,30 @@
           ]
         }
       ]
+    },
+    {
+      "shortName": "JOR",
+      "longName": "Custom JOR",
+      "country": "Custom",
+      "isNational": false,
+      "home": {
+        "angle": 60,
+        "avatarColor": 16777215,
+        "mainColor": [
+          33023,
+          16503,
+          8243
+        ]
+      },
+      "away": {
+        "angle": 60,
+        "avatarColor": 16777215,
+        "mainColor": [
+          33023,
+          16503,
+          8243
+        ]
+      }
     }
   ]
 }
