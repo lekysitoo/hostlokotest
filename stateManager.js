@@ -97,23 +97,25 @@ class StateManager {
             }
         };
 
-        // Inicializar sistemas
-        this.initializeState();
+        // Inicializar uniformes por defecto primero
+        this.initializeUniforms();
+        
+        // Iniciar la carga asíncrona
+        this._init();
     }
 
-    // Inicialización asíncrona
-    async initializeState() {
-        try {
-            // Cargar datos desde GitHub o backup
-            await this.loadAllData();
-            
-            // Configurar auto-save cada 5 minutos
-            setInterval(() => this.saveAllData(), 5 * 60 * 1000);
-            
-            console.log('🚀 Estado inicializado correctamente');
-        } catch (error) {
-            console.error('Error inicializando estado:', error);
-        }
+    // Método privado para inicialización asíncrona
+    _init() {
+        // Cargar datos
+        this.loadAllData()
+            .then(() => {
+                // Configurar auto-save cada 5 minutos
+                setInterval(() => this.saveAllData(), 5 * 60 * 1000);
+                console.log('🚀 Estado inicializado correctamente');
+            })
+            .catch(error => {
+                console.error('Error inicializando estado:', error);
+            });
     }
 
     // Cargar todos los datos
