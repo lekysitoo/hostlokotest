@@ -513,6 +513,15 @@ class StateManager {
         return this.state.uniforms.current;
     }
 
+    // Método para obtener el equipo de un jugador
+    getPlayerTeam(playerId) {
+        const player = this.state.playerNames.get(playerId);
+        if (!player) return null;
+        
+        // En HaxBall: 1 = red, 2 = blue
+        return player.team === 1 ? 'red' : player.team === 2 ? 'blue' : null;
+    }
+
     // Métodos de posesión
     startPossessionTracking() {
         this.state.stats.possession = {
@@ -524,8 +533,8 @@ class StateManager {
     }
 
     updatePossession(playerId) {
-        const player = this.getPlayerTeam(playerId);
-        if (!player || !this.state.stats.possession.startTime) return;
+        const team = this.getPlayerTeam(playerId);
+        if (!team || !this.state.stats.possession.startTime) return;
 
         const now = Date.now();
         const timeDiff = now - this.state.stats.possession.startTime;
