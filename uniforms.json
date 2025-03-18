@@ -12,6 +12,19 @@
           2060177
         ]
       }
+    },
+    {
+      "shortName": "fua",
+      "longName": "FUA",
+      "uniform": {
+        "angle": 60,
+        "avatarColor": 0,
+        "mainColor": [
+          16761210,
+          15775091,
+          13408866
+        ]
+      }
     }
   ]
 }
