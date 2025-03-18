@@ -1,1 +1,38 @@
-
+[
+    {
+        "shortName": "nacional",
+        "longName": "Nacional",
+        "uniform": {
+            "angle": 60,
+            "avatarColor": "0x000000",
+            "mainColor": ["0x2994C2", "0x227DA3", "0x1F6F91"]
+        }
+    },
+    {
+        "shortName": "peñarol",
+        "longName": "Peñarol",
+        "uniform": {
+            "angle": 90,
+            "avatarColor": "0x000000",
+            "mainColor": ["0xFFCC00", "0xFFB300", "0xFF9900"]
+        }
+    },
+    {
+        "shortName": "defensor",
+        "longName": "Defensor Sporting",
+        "uniform": {
+            "angle": 45,
+            "avatarColor": "0x000000",
+            "mainColor": ["0x4B0082", "0x3B0062", "0x2B0042"]
+        }
+    },
+    {
+        "shortName": "danubio",
+        "longName": "Danubio",
+        "uniform": {
+            "angle": 0,
+            "avatarColor": "0x000000",
+            "mainColor": ["0x000000", "0x111111", "0x222222"]
+        }
+    }
+] 
