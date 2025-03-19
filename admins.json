@@ -62,6 +62,12 @@
       "password": "ens9h",
       "isLoggedIn": true,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+    },
+    "WTF": {
+      "name": "WTF",
+      "password": "by3c5",
+      "isLoggedIn": true,
+      "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
     }
   }
 }
