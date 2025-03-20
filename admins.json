@@ -68,6 +68,24 @@
       "password": "by3c5",
       "isLoggedIn": true,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+    },
+    "tATTTTTTTTTTTTTTTTTTTTUM": {
+      "name": "tATTTTTTTTTTTTTTTTTTTTUM",
+      "password": "e7t50",
+      "isLoggedIn": true,
+      "browserAuth": "bC_aFd4IQXu6vmnieyVVt9t9hS_eMowwn2Qt0VmRWF4"
+    },
+    "La Gata Geddes": {
+      "name": "La Gata Geddes",
+      "password": "2lj5m",
+      "isLoggedIn": true,
+      "browserAuth": null
+    },
+    "guille": {
+      "name": "guille",
+      "password": "wpkof",
+      "isLoggedIn": true,
+      "browserAuth": null
     }
   }
 }
