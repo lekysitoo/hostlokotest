@@ -92,6 +92,18 @@
       "password": "zi3xk",
       "isLoggedIn": true,
       "browserAuth": "c5TBjZFLUt7oUXPjxeBYiH0kEh91TEA6lIkVsmnBO8Y"
+    },
+    "shete": {
+      "name": "shete",
+      "password": "xrnxq",
+      "isLoggedIn": true,
+      "browserAuth": null
+    },
+    "g": {
+      "name": "g",
+      "password": "i5j3n",
+      "isLoggedIn": true,
+      "browserAuth": "PzMZu23tXJAr7fP3KFR7OXVg--1pM3JfGP_lv2rAJOo"
     }
   }
 }
