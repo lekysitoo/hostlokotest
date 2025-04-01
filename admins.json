@@ -97,13 +97,19 @@
       "name": "shete",
       "password": "xrnxq",
       "isLoggedIn": true,
-      "browserAuth": null
+      "browserAuth": "ZNXPe74vnM4a0_nAm3yafc4iAdnlfD02KdCh7DrNoZo"
     },
     "g": {
       "name": "g",
       "password": "i5j3n",
       "isLoggedIn": true,
       "browserAuth": "PzMZu23tXJAr7fP3KFR7OXVg--1pM3JfGP_lv2rAJOo"
+    },
+    "sigma boy": {
+      "name": "sigma boy",
+      "password": "5zn0r",
+      "isLoggedIn": true,
+      "browserAuth": null
     }
   }
 }
